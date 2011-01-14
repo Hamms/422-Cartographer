@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:tc2="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" version="1.1" creator="TC2 to GPX11 XSLT stylesheet" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <trk>
+        <name>2011-01-06T15:56:13Z</name>
+        <trkseg>
+            <trkpt lat="44.0400846" lon="-123.0738189">
+                <ele>146.2578125</ele>
+                <time>2011-01-06T16:24:44Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400846" lon="-123.0737123">
+                <ele>145.7770996</ele>
+                <time>2011-01-06T16:24:46Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400853" lon="-123.0734536">
+                <ele>145.2963867</ele>
+                <time>2011-01-06T16:24:51Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400708" lon="-123.0731974">
+                <ele>144.8157959</ele>
+                <time>2011-01-06T16:24:56Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400859" lon="-123.0729020">
+                <ele>144.3352051</ele>
+                <time>2011-01-06T16:25:01Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>183</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400939" lon="-123.0728430">
+                <ele>143.8543701</ele>
+                <time>2011-01-06T16:25:02Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>183</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400805" lon="-123.0724893">
+                <ele>140.4898682</ele>
+                <time>2011-01-06T16:25:08Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>184</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400640" lon="-123.0723138">
+                <ele>138.5672607</ele>
+                <time>2011-01-06T16:25:11Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>185</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400573" lon="-123.0721961">
+                <ele>136.6446533</ele>
+                <time>2011-01-06T16:25:13Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>186</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400562" lon="-123.0719696">
+                <ele>135.6831055</ele>
+                <time>2011-01-06T16:25:17Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>186</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400453" lon="-123.0716852">
+                <ele>135.2025146</ele>
+                <time>2011-01-06T16:25:22Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>186</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400361" lon="-123.0714632">
+                <ele>134.7219238</ele>
+                <time>2011-01-06T16:25:26Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>186</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400526" lon="-123.0711096">
+                <ele>135.6831055</ele>
+                <time>2011-01-06T16:25:33Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>185</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400636" lon="-123.0707447">
+                <ele>136.1639404</ele>
+                <time>2011-01-06T16:25:40Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>183</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400697" lon="-123.0705364">
+                <ele>135.6831055</ele>
+                <time>2011-01-06T16:25:44Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400669" lon="-123.0702883">
+                <ele>135.6831055</ele>
+                <time>2011-01-06T16:25:49Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0400888" lon="-123.0699640">
+                <ele>137.6058350</ele>
+                <time>2011-01-06T16:25:56Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0401090" lon="-123.0698759">
+                <ele>138.5672607</ele>
+                <time>2011-01-06T16:25:58Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0402190" lon="-123.0698146">
+                <ele>139.0478516</ele>
+                <time>2011-01-06T16:26:02Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0404387" lon="-123.0698043">
+                <ele>141.4510498</ele>
+                <time>2011-01-06T16:26:07Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0406955" lon="-123.0698209">
+                <ele>142.4124756</ele>
+                <time>2011-01-06T16:26:13Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>182</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0409363" lon="-123.0698139">
+                <ele>143.8543701</ele>
+                <time>2011-01-06T16:26:18Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>185</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0411472" lon="-123.0698248">
+                <ele>145.2963867</ele>
+                <time>2011-01-06T16:26:23Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>188</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0413035" lon="-123.0698293">
+                <ele>145.2963867</ele>
+                <time>2011-01-06T16:26:27Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0414300" lon="-123.0698344">
+                <ele>144.8157959</ele>
+                <time>2011-01-06T16:26:30Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0416435" lon="-123.0698547">
+                <ele>144.8157959</ele>
+                <time>2011-01-06T16:26:36Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0418263" lon="-123.0698381">
+                <ele>143.8543701</ele>
+                <time>2011-01-06T16:26:41Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0420029" lon="-123.0698219">
+                <ele>142.8930664</ele>
+                <time>2011-01-06T16:26:46Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0421566" lon="-123.0698065">
+                <ele>142.8930664</ele>
+                <time>2011-01-06T16:26:51Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0423698" lon="-123.0697049">
+                <ele>144.8157959</ele>
+                <time>2011-01-06T16:26:58Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0425449" lon="-123.0696246">
+                <ele>151.0642090</ele>
+                <time>2011-01-06T16:27:03Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0426141" lon="-123.0695957">
+                <ele>152.9869385</ele>
+                <time>2011-01-06T16:27:05Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0427974" lon="-123.0697010">
+                <ele>151.5449219</ele>
+                <time>2011-01-06T16:27:10Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0430030" lon="-123.0697636">
+                <ele>146.2578125</ele>
+                <time>2011-01-06T16:27:15Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0430906" lon="-123.0697802">
+                <ele>145.7770996</ele>
+                <time>2011-01-06T16:27:17Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432152" lon="-123.0699224">
+                <ele>144.8157959</ele>
+                <time>2011-01-06T16:27:21Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432462" lon="-123.0701458">
+                <ele>143.8543701</ele>
+                <time>2011-01-06T16:27:25Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432496" lon="-123.0704202">
+                <ele>144.8157959</ele>
+                <time>2011-01-06T16:27:30Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432520" lon="-123.0705650">
+                <ele>142.8930664</ele>
+                <time>2011-01-06T16:27:33Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432415" lon="-123.0707281">
+                <ele>141.4510498</ele>
+                <time>2011-01-06T16:27:36Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432176" lon="-123.0709372">
+                <ele>140.0091553</ele>
+                <time>2011-01-06T16:27:40Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432164" lon="-123.0709906">
+                <ele>139.5284424</ele>
+                <time>2011-01-06T16:27:41Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432054" lon="-123.0712894">
+                <ele>137.6058350</ele>
+                <time>2011-01-06T16:27:47Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432035" lon="-123.0714403">
+                <ele>136.6446533</ele>
+                <time>2011-01-06T16:27:50Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0432005" lon="-123.0717022">
+                <ele>136.6446533</ele>
+                <time>2011-01-06T16:27:55Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0431866" lon="-123.0719179">
+                <ele>138.5672607</ele>
+                <time>2011-01-06T16:27:59Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0431860" lon="-123.0719701">
+                <ele>138.5672607</ele>
+                <time>2011-01-06T16:28:00Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0431981" lon="-123.0722739">
+                <ele>138.0865479</ele>
+                <time>2011-01-06T16:28:06Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>188</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0431808" lon="-123.0724665">
+                <ele>138.0865479</ele>
+                <time>2011-01-06T16:28:11Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>188</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0430321" lon="-123.0724992">
+                <ele>139.5284424</ele>
+                <time>2011-01-06T16:28:16Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>189</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0428696" lon="-123.0724967">
+                <ele>139.5284424</ele>
+                <time>2011-01-06T16:28:20Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>190</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0426619" lon="-123.0724547">
+                <ele>140.0091553</ele>
+                <time>2011-01-06T16:28:25Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>191</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0425173" lon="-123.0724485">
+                <ele>141.4510498</ele>
+                <time>2011-01-06T16:28:29Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>192</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0423433" lon="-123.0724445">
+                <ele>142.8930664</ele>
+                <time>2011-01-06T16:28:34Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>192</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0423102" lon="-123.0723816">
+                <ele>142.8930664</ele>
+                <time>2011-01-06T16:28:38Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>192</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+            <trkpt lat="44.0424464" lon="-123.0724479">
+                <ele>140.4898682</ele>
+                <time>2011-01-06T16:28:43Z</time>
+                <extensions>
+                    <tp1:TrackPointExtension>
+                        <tp1:hr>192</tp1:hr>
+                    </tp1:TrackPointExtension>
+                </extensions>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
